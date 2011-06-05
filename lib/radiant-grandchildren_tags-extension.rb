@@ -1,0 +1,2 @@
+module RadiantGrandchildrenTagsExtension
+end
