@@ -16,18 +16,17 @@ Installation
 
 ###Available Tags
 
-* See the "available tags" documentation built into the Radiant page admin for more details.
+    * <r:grandchildren:count>
+    * <r:grandchildren:first>
+    * <r:grandchildren:last>
+    * <r:grandchildren:each>
+    * <r:grandchildren:each:if_first>
+    * <r:grandchildren:each:unless_first>
+    * <r:grandchildren:each:if_last>
+    * <r:grandchildren:each:unless_last>
+    * <r:grandchildren:each:header>
 
-* <r:grandchildren:count>
-* <r:grandchildren:first>
-* <r:grandchildren:last>
-* <r:grandchildren:each>
-* <r:grandchildren:each:if_first>
-* <r:grandchildren:each:unless_first>
-* <r:grandchildren:each:if_last>
-* <r:grandchildren:each:unless_last>
-* <r:grandchildren:each:header>
+See the "available tags" documentation built into the Radiant page admin for more details.
 
 [jomz]: http://github.com/jomz
 [radiant]: http://radiantcms.org/
-
