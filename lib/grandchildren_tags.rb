@@ -98,7 +98,7 @@ module GrandchildrenTags
     *Usage:*
   
     <pre><code><r:grandchildren:each [offset="number"] [limit="number"]
-     [by="published_at|updated_at|created_at|slug|title|keywords|description"]
+     [by="published_at|updated_at|created_at|slug|title"]
      [order="asc|desc"] 
      [status="draft|reviewed|published|hidden|all"]
      [paginated="true"]
